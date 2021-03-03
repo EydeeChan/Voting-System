@@ -12,6 +12,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   	<div class="login-logo">
+	  <center><img class="footer-logo mbm" style="width: 150px;" src="images\ssglogo200.png" alt="logo" title="logo" /><center>
   		<b>Taytay Senior High School</b>
 		  <div>
 		  Student Panel
@@ -53,8 +54,7 @@
 </body>
 
 <footer>
-<center><img class="footer-logo mbm" style="width: 75px;" src="images\ssglogo75.png" alt="logo" title="logo" /><center>
-<p><center><strong><b>Taytay Senior High School<center><strong><b></p>
-<p><center><strong> &copy; 2021 Brought To You By <a href="https://github.com/EydeeChan">Kenneth Glenn Bamba</a></strong><center><p></footer>
+<p><center><strong> &copy; 2021 Brought To You By <a href="https://github.com/EydeeChan">Kenneth Glenn Bamba</a></strong><center><p>
+<p><center><strong> in collaboration with <a href="https://www.facebook.com/taytayshs.ssg.1">Supreme Student Goverment</a>.</strong><center><p></footer>
 </div>
 </html>
