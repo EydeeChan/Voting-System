@@ -8,9 +8,13 @@
 ## Screenshot
 
 
-- Login Form
+![Login Form](https://github.com/EydeeChan/Voting-System/blob/main/Gallery/LoginAdmin.PNG)
 
-- Admin Form 
+* Login Form 
+
+![Admin Form](https://github.com/EydeeChan/Voting-System/blob/main/Gallery/DashboardAdmin.PNG)
+
+* Admin Form
 
 ### Prerequisites
 ```
@@ -23,7 +27,7 @@
 
 ## Installation
 
-Please read [Wiki](https://github.com/EydeeChan/Voting-System/wiki) for more details about installation guide.
+Please read [Installation](https://github.com/EydeeChan/Voting-System/wiki/Installation) for more details about installation guide.
 
 
 * For demo you can also reach me thru my facebook account. **[here](https://facebook.com/EydeeChan)**.
